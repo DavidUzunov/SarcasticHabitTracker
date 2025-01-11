@@ -15,4 +15,5 @@ int main() {
     std::cout << "Second: " << localTime->tm_sec << std::endl;
 
     return 0;
-}
+}string x = "blah blah blah";
+print(heloworld);
