@@ -1,0 +1,4 @@
+gather habit data (good/bad)
+date/time data
+   - frequency of habits per day/week
+Have a dictionary that defines the app's  behavior depending on which habit it is.]
